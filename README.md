@@ -1,5 +1,5 @@
 # proyecto-grupal-2
-Link presentación (https://raw.githubusercontent.com/GonzaloAlvarez-hub/Tablas-de-Amortizaci-n-de-Deudas/refs/heads/main/Presentation.qmd)
+Link presentación (https://raw.githubusercontent.com/jaba67/proyecto-grupal-2/refs/heads/main/proyecto%202.qmd)
 
 Ensayo: Tablas de Amortización de Deudas
 
